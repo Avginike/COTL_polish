@@ -1,0 +1,4 @@
+files:
+  - source: /source/*
+    translation: /translated/%two_letters_code%.%file_extension%
+    scheme: 'identifier,context,none,source_phrase,none,none,none,none,none,none,none,none,none,translation'
