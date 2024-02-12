@@ -448,19 +448,19 @@
 "NAMES/Places/Dungeon1_2","Place
   This is the second dungeon biome, it is a dark wooded area but now with an introduction of red trees","10","Anura","蛙の樹林","Земноводье","Anura","Anura","Anura","Anura","无尾林","無尾林","아누라","Anura","""NAMES/Places/Dungeon1_2"", """""
 "NAMES/Places/Dungeon1_3","Place
-  This is the third dungeon biome, it is an swamp kind of area with the illusion of being under water","10","Anchordeep","深淵の沼地","Топь","Ancr'ombre","Ankertiefen","Anclaprofunda","Ancorada","锚渊沼","錨淵沼","앵커딥","Anchordeep","""NAMES/Places/Dungeon1_3"", """""
+  This is the third dungeon biome, it is an swamp kind of area with the illusion of being under water","10","Anchordeep","深淵の沼地","Топь","Ancr'ombre","Ankertiefen","Anclaprofunda","Ancorada","锚渊沼","錨淵沼","앵커딥","Kotwiczne Głębiny","""NAMES/Places/Dungeon1_3"", """""
 "NAMES/Places/Dungeon1_4","Place
-  This is the tfourth dungeon biome, it is a cave biome with spider webs everywhere","10","Silk Cradle","蜘蛛糸の揺籃","Шёлковая колыбель","Antre de soie","Seidenwiege","Cuna de seda","Berço de Seda","蛛丝摇篮","蛛絲搖籃","비단 요람","Silk Cradle","""NAMES/Places/Dungeon1_4"", """""
+  This is the tfourth dungeon biome, it is a cave biome with spider webs everywhere","10","Silk Cradle","蜘蛛糸の揺籃","Шёлковая колыбель","Antre de soie","Seidenwiege","Cuna de seda","Berço de Seda","蛛丝摇篮","蛛絲搖籃","비단 요람","Jedwabna Kołyska","""NAMES/Places/Dungeon1_4"", """""
 "NAMES/Places/RatauHouse","Place
-  House where Ratau lives","10","Lonely Shack","隠れ小屋","Одинокая хижина","Cabane solitaire","Einsame Hütte","Cabaña solitaria","Barraco Solitário","偏僻小屋","偏僻小屋","외로운 판잣집","Lonely Shack","""NAMES/Places/RatauHouse"", """""
+  House where Ratau lives","10","Lonely Shack","隠れ小屋","Одинокая хижина","Cabane solitaire","Einsame Hütte","Cabaña solitaria","Barraco Solitário","偏僻小屋","偏僻小屋","외로운 판잣집","Samotna Chata","""NAMES/Places/RatauHouse"", """""
 "NAMES/Places/Temple1","Place
-  Big Boss Rooms","10","Darkwood Temple","夜闇の森 神殿","Храм чащи","Temple des Bois","Düsterholz-Tempel","Templo de la Foresta Oscura","Templo da Floresta Sombria","暗林圣殿","暗林聖殿","다크우드 사원","Darkwood Temple","""NAMES/Places/Temple1"", """""
+  Big Boss Rooms","10","Darkwood Temple","夜闇の森 神殿","Храм чащи","Temple des Bois","Düsterholz-Tempel","Templo de la Foresta Oscura","Templo da Floresta Sombria","暗林圣殿","暗林聖殿","다크우드 사원","Świątynia Mrocznego Lasu","""NAMES/Places/Temple1"", """""
 "NAMES/Places/Temple2","Place
-  Big Boss Rooms","10","Anura Temple","蛙の樹林 神殿","Храм земноводья","Temple d'Anura","Anura-Tempel","Templo de Anura","Templo de Anura","无尾林圣殿","無尾林聖殿","아누라 사원","Anura Temple","""NAMES/Places/Temple2"", """""
+  Big Boss Rooms","10","Anura Temple","蛙の樹林 神殿","Храм земноводья","Temple d'Anura","Anura-Tempel","Templo de Anura","Templo de Anura","无尾林圣殿","無尾林聖殿","아누라 사원","Świątynia Anury","""NAMES/Places/Temple2"", """""
 "NAMES/Places/Temple3","Place
-  Big Boss Rooms","10","Anchordeep Temple","深淵の沼地 神殿","Храм топи","Temple d'Ancr'ombre","Ankertiefen-Tempel","Templo de Anclaprofunda","Templo de Ancorada","锚渊沼圣殿","錨淵沼聖殿","앵커딥 사원","Anchordeep Temple","""NAMES/Places/Temple3"", """""
+  Big Boss Rooms","10","Anchordeep Temple","深淵の沼地 神殿","Храм топи","Temple d'Ancr'ombre","Ankertiefen-Tempel","Templo de Anclaprofunda","Templo de Ancorada","锚渊沼圣殿","錨淵沼聖殿","앵커딥 사원","Świątynia Kotwicznej Głębiny","""NAMES/Places/Temple3"", """""
 "NAMES/Places/Temple4","Place
-  Big Boss Rooms","10","Silk Cradle Temple","蜘蛛糸の揺籃 神殿","Храм шёлковой колыбели","Temple de l'Antre","Seidenwiege-Tempel","Templo de Cuna de seda","Templo do Berço de Seda","蛛丝摇篮圣殿","蛛絲搖籃聖殿","비단 요람 사원","Silk Cradle Temple","""NAMES/Places/Temple4"", """""
+  Big Boss Rooms","10","Silk Cradle Temple","蜘蛛糸の揺籃 神殿","Храм шёлковой колыбели","Temple de l'Antre","Seidenwiege-Tempel","Templo de Cuna de seda","Templo do Berço de Seda","蛛丝摇篮圣殿","蛛絲搖籃聖殿","비단 요람 사원","Świątynia Jedwabnej Kołyski","""NAMES/Places/Temple4"", """""
 "NAMES/Places/Location1","Place
   This is a shore location with a peir and lighthouse","10","Pilgrim's Passage","巡礼者の道","Тропа паломников","Chemin du Pèlerin","Pilgerpassage","Pasaje del peregrino","Passagem dos Peregrinos","朝圣者之路","朝聖者之路","순례자의 길","Pilgrim's Passage","""NAMES/Places/Location1"", """""
 "NAMES/Places/Location2","Place
