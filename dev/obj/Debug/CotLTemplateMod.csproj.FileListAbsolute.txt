@@ -1,0 +1,21 @@
+C:\Users\User\Desktop\legal games\Inscryption\mods\COTL\profiles\Default\BepInEx\plugins\polish\.dev\PolishMod\obj\Debug\CotLTemplateMod.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\legal games\Inscryption\mods\COTL\profiles\Default\BepInEx\plugins\polish\.dev\PolishMod\obj\Debug\CotLTemplateMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\legal games\Inscryption\mods\COTL\profiles\Default\BepInEx\plugins\polish\.dev\PolishMod\obj\Debug\CotLTemplateMod.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\legal games\Inscryption\mods\COTL\profiles\Default\BepInEx\plugins\polish\.dev\PolishMod\obj\Debug\CotLTemplateMod.AssemblyInfo.cs
+C:\Users\User\Desktop\legal games\Inscryption\mods\COTL\profiles\Default\BepInEx\plugins\polish\.dev\PolishMod\obj\Debug\CotLTemplateMod.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\legal games\Inscryption\mods\COTL\profiles\Default\BepInEx\plugins\polish\.dev\PolishMod\bin\Debug\CotLTemplateMod\PolishMod.deps.json
+C:\Users\User\Desktop\legal games\Inscryption\mods\COTL\profiles\Default\BepInEx\plugins\polish\.dev\PolishMod\bin\Debug\CotLTemplateMod\PolishMod.dll
+C:\Users\User\Desktop\legal games\Inscryption\mods\COTL\profiles\Default\BepInEx\plugins\polish\.dev\PolishMod\bin\Debug\CotLTemplateMod\PolishMod.pdb
+C:\Users\User\Desktop\legal games\Inscryption\mods\COTL\profiles\Default\BepInEx\plugins\polish\.dev\PolishMod\obj\Debug\PolishMod.dll
+C:\Users\User\Desktop\legal games\Inscryption\mods\COTL\profiles\Default\BepInEx\plugins\polish\.dev\PolishMod\obj\Debug\PolishMod.pdb
+C:\Users\User\Desktop\Projects\COTL_polish\dev\bin\Debug\CotLTemplateMod\PolishMod.deps.json
+C:\Users\User\Desktop\Projects\COTL_polish\dev\bin\Debug\CotLTemplateMod\PolishMod.dll
+C:\Users\User\Desktop\Projects\COTL_polish\dev\bin\Debug\CotLTemplateMod\PolishMod.pdb
+C:\Users\User\Desktop\Projects\COTL_polish\dev\obj\Debug\CotLTemplateMod.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Projects\COTL_polish\dev\obj\Debug\CotLTemplateMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Projects\COTL_polish\dev\obj\Debug\CotLTemplateMod.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Projects\COTL_polish\dev\obj\Debug\CotLTemplateMod.AssemblyInfo.cs
+C:\Users\User\Desktop\Projects\COTL_polish\dev\obj\Debug\CotLTemplateMod.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projects\COTL_polish\dev\obj\Debug\CotLTemplateMod.sourcelink.json
+C:\Users\User\Desktop\Projects\COTL_polish\dev\obj\Debug\PolishMod.dll
+C:\Users\User\Desktop\Projects\COTL_polish\dev\obj\Debug\PolishMod.pdb
