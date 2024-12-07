@@ -1,0 +1,11 @@
+{
+    "namespace": "PolishMod",
+    "name": "Polish Locale Mod",
+    "description": "A fan translation of the game.",
+    "version_number": "0.0.1",
+    "dependencies": [
+      "BepInEx-BepInExPack_CultOfTheLamb-5.4.21",
+      "API_dev-COTL_API-1.0.0"
+    ],
+    "website_url": ""
+  }
