@@ -246,13 +246,13 @@
   in the cooking fire/ kitchen UI","100","Better than nothing.","食べるものが何もないよりはマシだ。","Лучше, чем ничего.","C'est toujours mieux que rien.","Besser als nichts.","Mejor que nada.","Melhor que nada.","总比没得吃好。","總比沒得吃好。","없는 것보단 낫습니다.","Lepsze to niż nic.","""CookingData/MEAL_GRASS/Description"", """""
 "CookingData/MEAL_FOLLOWER_MEAT/Name","Title used for displaying the 
   vegetable meal, mostly displayed 
-  in the cooking fire/ kitchen UI","15","Minced Follower Meat","信者肉の料理","Жареное мясо последователя","Plat de chair d'adepte","Anhänger-Fleischmahlzeit","Plato de carne de adeptos","Refeição de Carne de Seguidor","教徒之肉肉餐","教徒之肉肉餐","다진 추종자 고기","Mielone Mięso Wyznawcy","""CookingData/MEAL_FOLLOWER_MEAT/Name"", """""
+  in the cooking fire/ kitchen UI","15","Minced Follower Meat","信者肉の料理","Жареное мясо последователя","Plat de chair d'adepte","Anhänger-Fleischmahlzeit","Plato de carne de adeptos","Refeição de Carne de Seguidor","教徒之肉肉餐","教徒之肉肉餐","다진 추종자 고기","Mielone mięso z Wyznawcy","""CookingData/MEAL_FOLLOWER_MEAT/Name"", """""
 "CookingData/MEAL_FOLLOWER_MEAT/Description","Title used for displaying the 
   vegetable meal, mostly displayed 
-  in the cooking fire/ kitchen UI","100","A dish made of the flesh of fellow Cult members.","教団信者の肉を使って作られた料理。","Блюдо, приготовленное из плоти ближнего.","Un repas cuisiné avec la chair d'un membre du culte.","Ein Gericht aus dem Fleisch deiner Kultmitglieder.","Un plato hecho con carne de los miembros de la secta.","Um prato feito da carne de colegas membros do Culto.","使用教徒的肉制作而成的餐点。","使用教徒的肉製作而成的餐點。","추종자 교단원의 살로 만든 음식입니다.","Danie zrobione z mięsa innych członków kultu.","""CookingData/MEAL_FOLLOWER_MEAT/Description"", """""
+  in the cooking fire/ kitchen UI","100","A dish made of the flesh of fellow Cult members.","教団信者の肉を使って作られた料理。","Блюдо, приготовленное из плоти ближнего.","Un repas cuisiné avec la chair d'un membre du culte.","Ein Gericht aus dem Fleisch deiner Kultmitglieder.","Un plato hecho con carne de los miembros de la secta.","Um prato feito da carne de colegas membros do Culto.","使用教徒的肉制作而成的餐点。","使用教徒的肉製作而成的餐點。","추종자 교단원의 살로 만든 음식입니다.","Danie zrobione z mięsa ze współczłonków Kultu.","""CookingData/MEAL_FOLLOWER_MEAT/Description"", """""
 "CookingData/MEAL_POOP/Name","Title used for displaying the 
   vegetable meal, mostly displayed 
-  in the cooking fire/ kitchen UI","15","Bowl of Poop","ウンチ料理","Печёные экскременты","Mets d'excréments","Kotmahlzeit","Plato de caca","Refeição de Cocô","便便餐","便便餐","똥 한 사발","Miska Kupy","""CookingData/MEAL_POOP/Name"", """""
+  in the cooking fire/ kitchen UI","15","Bowl of Poop","ウンチ料理","Печёные экскременты","Mets d'excréments","Kotmahlzeit","Plato de caca","Refeição de Cocô","便便餐","便便餐","똥 한 사발","Miska kupy","""CookingData/MEAL_POOP/Name"", """""
 "CookingData/MEAL_POOP/Description","Title used for displaying the 
   vegetable meal, mostly displayed 
   in the cooking fire/ kitchen UI","100","A ""meal"" made of excrement...","排泄物を使った料理は『料理』と呼べるのだろうか…","«Блюдо», приготовленное из испражнений.","Un « plat » cuisiné avec des excréments...","Eine „Mahlzeit“ aus Exkrementen …","Una «comida» hecha a base de excrementos.","Uma ""refeição"" feita de excremento...","使用粪便制作成的“餐点”……","使用糞便製作成的「餐點」……","배설물로 만든 ""음식""입니다...","""Posiłek"" zrobiony z ekskrementów...","""CookingData/MEAL_POOP/Description"", """""
