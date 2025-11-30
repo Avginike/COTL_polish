@@ -255,25 +255,25 @@
   in the cooking fire/ kitchen UI","15","Bowl of Poop","ウンチ料理","Печёные экскременты","Mets d'excréments","Kotmahlzeit","Plato de caca","Refeição de Cocô","便便餐","便便餐","똥 한 사발","Miska kupy","""CookingData/MEAL_POOP/Name"", """""
 "CookingData/MEAL_POOP/Description","Title used for displaying the 
   vegetable meal, mostly displayed 
-  in the cooking fire/ kitchen UI","100","A ""meal"" made of excrement...","排泄物を使った料理は『料理』と呼べるのだろうか…","«Блюдо», приготовленное из испражнений.","Un « plat » cuisiné avec des excréments...","Eine „Mahlzeit“ aus Exkrementen …","Una «comida» hecha a base de excrementos.","Uma ""refeição"" feita de excremento...","使用粪便制作成的“餐点”……","使用糞便製作成的「餐點」……","배설물로 만든 ""음식""입니다...","""Posiłek"" zrobiony z ekskrementów...","""CookingData/MEAL_POOP/Description"", """""
+  in the cooking fire/ kitchen UI","100","A ""meal"" made of excrement...","排泄物を使った料理は『料理』と呼べるのだろうか…","«Блюдо», приготовленное из испражнений.","Un « plat » cuisiné avec des excréments...","Eine „Mahlzeit“ aus Exkrementen …","Una «comida» hecha a base de excrementos.","Uma ""refeição"" feita de excremento...","使用粪便制作成的“餐点”……","使用糞便製作成的「餐點」……","배설물로 만든 ""음식""입니다...","„Posiłek” zrobiony z ekskrementów...","""CookingData/MEAL_POOP/Description"", """""
 "CookingData/MEAL_MUSHROOMS/Name","Title used for displaying the 
   vegetable meal, mostly displayed 
-  in the cooking fire/ kitchen UI","15","Mushroom Meal","キノコ料理","Тушёные грибы","Plat de champignons","Pilzmahlzeit","Plato de setas","Refeição de Cogumelos","蘑菇餐","蘑菇餐","버섯 음식","Grzybowy Posiłek","""CookingData/MEAL_MUSHROOMS/Name"", """""
+  in the cooking fire/ kitchen UI","15","Mushroom Meal","キノコ料理","Тушёные грибы","Plat de champignons","Pilzmahlzeit","Plato de setas","Refeição de Cogumelos","蘑菇餐","蘑菇餐","버섯 음식","Grzybowy posiłek","""CookingData/MEAL_MUSHROOMS/Name"", """""
 "CookingData/MEAL_MUSHROOMS/Description","Title used for displaying the 
   vegetable meal, mostly displayed 
-  in the cooking fire/ kitchen UI","100","Sauteed mushrooms, hopefully not poisonous.","キノコを炒めて作った料理。毒キノコでないことを祈ろう。","Блюдо из грибов, которые выглядели неядовитыми.","Poêlée de champignons comestibles, avec un peu de chance...","Gedünstete Pilze, die hoffentlich ungiftig sind.","Setas salteadas; esperemos que no sean venenosas.","Tomara que esses cogumelos refogados não sejam venenosos.","煎蘑菇，希望没有毒。","煎蘑菇，希望沒有毒。","볶은 버섯입니다. 다행히 독은 없습니다.","Smażone grzyby, miejmy nadzieję, że nie są trujące.","""CookingData/MEAL_MUSHROOMS/Description"", """""
+  in the cooking fire/ kitchen UI","100","Sauteed mushrooms, hopefully not poisonous.","キノコを炒めて作った料理。毒キノコでないことを祈ろう。","Блюдо из грибов, которые выглядели неядовитыми.","Poêlée de champignons comestibles, avec un peu de chance...","Gedünstete Pilze, die hoffentlich ungiftig sind.","Setas salteadas; esperemos que no sean venenosas.","Tomara que esses cogumelos refogados não sejam venenosos.","煎蘑菇，希望没有毒。","煎蘑菇，希望沒有毒。","볶은 버섯입니다. 다행히 독은 없습니다.","Podsmażane grzyby, oby nie trujące.","""CookingData/MEAL_MUSHROOMS/Description"", """""
 "CookingData/MEAL_GOOD_FISH/Name","Title used for displaying the 
   vegetable meal, mostly displayed 
-  in the cooking fire/ kitchen UI","15","Tasty Fish Meal","魚料理","Вкусная жареная рыба","Savoureux plat de poisson","Leckere Fischmahlzeit","Plato de pescado sabroso","Refeição de Peixe Gostosa","可口鱼餐","可口魚餐","맛있는 물고기 음식","Smaczny Rybny Posiłek","""CookingData/MEAL_GOOD_FISH/Name"", """""
+  in the cooking fire/ kitchen UI","15","Tasty Fish Meal","魚料理","Вкусная жареная рыба","Savoureux plat de poisson","Leckere Fischmahlzeit","Plato de pescado sabroso","Refeição de Peixe Gostosa","可口鱼餐","可口魚餐","맛있는 물고기 음식","Smaczny rybny posiłek","""CookingData/MEAL_GOOD_FISH/Name"", """""
 "CookingData/MEAL_GOOD_FISH/Description","Title used for displaying the 
   vegetable meal, mostly displayed 
-  in the cooking fire/ kitchen UI","100","A satisfying dish, made with care.","丁寧に調理されたおいしい料理。","Старательно приготовленное сытное блюдо.","Un repas appétissant, préparé avec soin.","Ein geschmackvolles Gericht, liebevoll zubereitet.","Un plato equilibrado hecho con cariño.","Um prato satisfatório feito com carinho.","用心制作且令人满足的料理。","用心製作且令人滿足的料理。","만족스러운 음식입니다. 정성을 담아 만들어졌습니다.","Satysfakcjonujące danie, wykonane z troską.","""CookingData/MEAL_GOOD_FISH/Description"", """""
+  in the cooking fire/ kitchen UI","100","A satisfying dish, made with care.","丁寧に調理されたおいしい料理。","Старательно приготовленное сытное блюдо.","Un repas appétissant, préparé avec soin.","Ein geschmackvolles Gericht, liebevoll zubereitet.","Un plato equilibrado hecho con cariño.","Um prato satisfatório feito com carinho.","用心制作且令人满足的料理。","用心製作且令人滿足的料理。","만족스러운 음식입니다. 정성을 담아 만들어졌습니다.","Satysfakcjonujące danie, wykonane z dbałością.","""CookingData/MEAL_GOOD_FISH/Description"", """""
 "CookingData/MEAL_GREAT_FISH/Name","Title used for displaying the 
   vegetable meal, mostly displayed 
-  in the cooking fire/ kitchen UI","15","Delicious Fish Feast","上質な魚料理","Изысканная жареная рыба","Succulent plat de poisson","Köstliches Fischgericht","Plato de pescado delicioso","Refeição de Peixe Deliciosa","美味鱼餐","美味魚餐","아주 맛있는 물고기 음식","Przepyszna Rybna Uczta","""CookingData/MEAL_GREAT_FISH/Name"", """""
+  in the cooking fire/ kitchen UI","15","Delicious Fish Feast","上質な魚料理","Изысканная жареная рыба","Succulent plat de poisson","Köstliches Fischgericht","Plato de pescado delicioso","Refeição de Peixe Deliciosa","美味鱼餐","美味魚餐","아주 맛있는 물고기 음식","Przepyszna rybna uczta","""CookingData/MEAL_GREAT_FISH/Name"", """""
 "CookingData/MEAL_GREAT_FISH/Description","Title used for displaying the 
   vegetable meal, mostly displayed 
-  in the cooking fire/ kitchen UI","100","Rich ingredients, perfectly prepared.","こだわりの材料を使い、完璧な調理が施された料理。","Мастерски приготовленное блюдо из отборных ингредиентов.","Des ingrédients de qualité et une préparation maîtrisée.","Reich an Zutaten und perfekt zubereitet.","Muy nutritivo, preparado a la perfección.","Preparada perfeitamente com ingredientes ricos.","以味鲜浓郁的食材完美烹煮而成。","以味鮮濃郁的食材完美烹煮而成。","재료도 풍부하고, 완벽하게 조리되었습니다.","Wysokiej jakości składniki, doskonale przygotowane.","""CookingData/MEAL_GREAT_FISH/Description"", """""
+  in the cooking fire/ kitchen UI","100","Rich ingredients, perfectly prepared.","こだわりの材料を使い、完璧な調理が施された料理。","Мастерски приготовленное блюдо из отборных ингредиентов.","Des ingrédients de qualité et une préparation maîtrisée.","Reich an Zutaten und perfekt zubereitet.","Muy nutritivo, preparado a la perfección.","Preparada perfeitamente com ingredientes ricos.","以味鲜浓郁的食材完美烹煮而成。","以味鮮濃郁的食材完美烹煮而成。","재료도 풍부하고, 완벽하게 조리되었습니다.","Pożywne składniki, doskonale przygotowane.","""CookingData/MEAL_GREAT_FISH/Description"", """""
 "CookingData/MEAL_GREAT/Name","Title used for displaying the 
   vegetable meal, mostly displayed 
   in the cooking fire/ kitchen UI","15","Splendid Vegetable Feast","最上級料理","Кулинарный шедевр","Plat exquis","Vorzügliche Mahlzeit","Plato exquisito","Refeição Exótica","精致餐","精緻餐","멋진 야채 음식","Wspaniała Uczta Warzywna","""CookingData/MEAL_GREAT/Name"", """""
@@ -282,56 +282,56 @@
   in the cooking fire/ kitchen UI","100","A divine culinary experience!","これぞ神々しき食事！","Божественно вкусное блюдо.","Un délice pour les papilles !","Eine göttliche kulinarische Erfahrung!","¡Una experiencia culinaria divina!","Uma experiência culinária divina!","极致的美味飨宴！","極致的美味饗宴！","신성한 요리 솜씨를 맛볼 수 있습니다!","Boskie doświadczenie kulinarne!","""CookingData/MEAL_GREAT/Description"", """""
 "CookingData/MEAL_BAD_FISH/Name","Title used for displaying the 
   vegetable meal, mostly displayed 
-  in the cooking fire/ kitchen UI","15","Pungent Fish Stew","悪臭のする魚料理","Пахучее рыбное заливное","Plat de poisson âcre","Kräftige Fischmahlzeit","Plato de pescado picante","Refeição de Peixe Picante","辛辣鱼餐","辛辣魚餐","톡 쏘는 생선 스튜","Ostry Gulasz Rybny","""CookingData/MEAL_BAD_FISH/Name"", """""
+  in the cooking fire/ kitchen UI","15","Pungent Fish Stew","悪臭のする魚料理","Пахучее рыбное заливное","Plat de poisson âcre","Kräftige Fischmahlzeit","Plato de pescado picante","Refeição de Peixe Picante","辛辣鱼餐","辛辣魚餐","톡 쏘는 생선 스튜","Ostry gulasz rybny","""CookingData/MEAL_BAD_FISH/Name"", """""
 "CookingData/MEAL_BAD_FISH/Description","Title used for displaying the 
   vegetable meal, mostly displayed 
   in the cooking fire/ kitchen UI","100","Tastes better than it looks.","見た目こそ悪いがそこそこおいしい。","На вкус лучше, чем на вид.","Meilleur qu'il n'y paraît.","Schmeckt besser, als sie aussieht.","Sabe mejor de lo que parece.","É mais gostosa do que parece.","尝起来比外表可口。","嘗起來比外表可口。","보이는 것보단 맛있습니다.","Smakuje lepiej niż wygląda.","""CookingData/MEAL_BAD_FISH/Description"", """""
 "CookingData/","ICON REF: https://www.dropbox.com/sh/j4gt6qy8tcrlt5d/AAC_1O_ohf41ETNPddFu2Lloa?dl=0","","","","","","","","","","","","","""CookingData/"", """""
 "CookingData/MEAL_BERRIES/Name","Title used for displaying a
   meal type, mostly displayed 
-  in the cooking fire/ kitchen UI","15","Basic Berry Bowl","ベリー料理","Ягодный джем","Plat de baies","Beerenmahlzeit","Plato de bayas","Refeição de Fruta","莓果餐","莓果餐","평범한 베리가 담긴 그릇","Podstawowa Miska Jagód","""CookingData/MEAL_BERRIES/Name"", """""
+  in the cooking fire/ kitchen UI","15","Basic Berry Bowl","ベリー料理","Ягодный джем","Plat de baies","Beerenmahlzeit","Plato de bayas","Refeição de Fruta","莓果餐","莓果餐","평범한 베리가 담긴 그릇","Podstawowa miska jagód","""CookingData/MEAL_BERRIES/Name"", """""
 "CookingData/MEAL_BERRIES/Description","Title used for displaying a
   meal type, mostly displayed 
-  in the cooking fire/ kitchen UI","100","Simple meal made from berries.","ベリーを使ったシンプルな料理。","Простое блюдо из ягод.","Un plat simple à base de baies.","Einfache Mahlzeit aus Beeren.","Un sencillo plato hecho con bayas.","Uma simples refeição de frutas.","以莓果制作的简餐","以莓果製作的簡餐","베리로 만든 단순한 음식입니다.","Prosty posiłek z jagód.","""CookingData/MEAL_BERRIES/Description"", """""
+  in the cooking fire/ kitchen UI","100","Simple meal made from berries.","ベリーを使ったシンプルな料理。","Простое блюдо из ягод.","Un plat simple à base de baies.","Einfache Mahlzeit aus Beeren.","Un sencillo plato hecho con bayas.","Uma simples refeição de frutas.","以莓果制作的简餐","以莓果製作的簡餐","베리로 만든 단순한 음식입니다.","Prosty posiłek zrobiony z jagód.","""CookingData/MEAL_BERRIES/Description"", """""
 "CookingData/MEAL_DEADLY/Name","Title used for displaying a
   meal type, mostly displayed 
-  in the cooking fire/ kitchen UI","15","Deadly Dish","ゲキマズ料理","Смертоносная еда","Plat mortel","Tödliche Mahlzeit","Plato mortal","Refeição Letal","夺命餐","奪命餐","치명적인 음식","Zabójcze Danie","""CookingData/MEAL_DEADLY/Name"", """""
+  in the cooking fire/ kitchen UI","15","Deadly Dish","ゲキマズ料理","Смертоносная еда","Plat mortel","Tödliche Mahlzeit","Plato mortal","Refeição Letal","夺命餐","奪命餐","치명적인 음식","Zabójcze danie","""CookingData/MEAL_DEADLY/Name"", """""
 "CookingData/MEAL_DEADLY/Description","Title used for displaying a
   meal type, mostly displayed 
-  in the cooking fire/ kitchen UI","100","A truly vile concoction.","この上なくひどい料理。","Ужасная гнилая смесь.","Une infâme concoction...","Eine wahrhaft abscheuliche Zubereitung.","Un mejunje asqueroso.","Uma mistura verdadeiramente infame.","邪恶无比的食材组合","邪惡無比的食材組合","진정으로 불쾌한 혼합물입니다.","Naprawdę paskudna mikstura.","""CookingData/MEAL_DEADLY/Description"", """""
+  in the cooking fire/ kitchen UI","100","A truly vile concoction.","この上なくひどい料理。","Ужасная гнилая смесь.","Une infâme concoction...","Eine wahrhaft abscheuliche Zubereitung.","Un mejunje asqueroso.","Uma mistura verdadeiramente infame.","邪恶无比的食材组合","邪惡無比的食材組合","진정으로 불쾌한 혼합물입니다.","Prawdziwie podła mieszanka.","""CookingData/MEAL_DEADLY/Description"", """""
 "CookingData/MEAL_BAD_MIXED/Name","Title used for displaying a
   meal type, mostly displayed 
-  in the cooking fire/ kitchen UI","15","Meager Mixed Meal","マズい盛り合わせ料理","Тухлая смесь","Mélange fade","Miese Mischmahlzeit","Plato mal combinado","Refeição Mista Ruim","难吃什锦餐","難吃什錦餐","부적절하게 섞은 음식","Mizerny Mieszany Posiłek","""CookingData/MEAL_BAD_MIXED/Name"", """""
+  in the cooking fire/ kitchen UI","15","Meager Mixed Meal","マズい盛り合わせ料理","Тухлая смесь","Mélange fade","Miese Mischmahlzeit","Plato mal combinado","Refeição Mista Ruim","难吃什锦餐","難吃什錦餐","부적절하게 섞은 음식","Mizerny mieszany posiłek","""CookingData/MEAL_BAD_MIXED/Name"", """""
 "CookingData/MEAL_BAD_MIXED/Description","Title used for displaying a
   meal type, mostly displayed 
-  in the cooking fire/ kitchen UI","100","Not great.","おいしくはない。","Не способствует пищеварению.","Ce n'est pas terrible...","Nicht so toll.","Asqueroso.","Nada boa.","不好吃","不好吃","좋지 않습니다.","Nie najlepszy.","""CookingData/MEAL_BAD_MIXED/Description"", """""
+  in the cooking fire/ kitchen UI","100","Not great.","おいしくはない。","Не способствует пищеварению.","Ce n'est pas terrible...","Nicht so toll.","Asqueroso.","Nada boa.","不好吃","不好吃","좋지 않습니다.","Nie za dobry.","""CookingData/MEAL_BAD_MIXED/Description"", """""
 "CookingData/MEAL_MEDIUM_MIXED/Name","Title used for displaying a
   meal type, mostly displayed 
-  in the cooking fire/ kitchen UI","15","Modest Mixed Meal","普通の盛り合わせ料理","Съедобная смесь","Mélange ordinaire","Durchschnittliche Mischmahlzeit","Plato regularmente combinado","Refeição Mista Média","中份什锦餐","中份什錦餐","멋지게 섞은 음식","Skromny Mieszany Posiłek","""CookingData/MEAL_MEDIUM_MIXED/Name"", """""
+  in the cooking fire/ kitchen UI","15","Modest Mixed Meal","普通の盛り合わせ料理","Съедобная смесь","Mélange ordinaire","Durchschnittliche Mischmahlzeit","Plato regularmente combinado","Refeição Mista Média","中份什锦餐","中份什錦餐","멋지게 섞은 음식","Skromny mieszany posiłek","""CookingData/MEAL_MEDIUM_MIXED/Name"", """""
 "CookingData/MEAL_MEDIUM_MIXED/Description","Title used for displaying a
   meal type, mostly displayed 
   in the cooking fire/ kitchen UI","100","Tastes better than it looks.","見た目こそ悪いがそこそこおいしい。","На вкус лучше, чем на вид.","Meilleur qu'il n'y paraît.","Schmeckt besser, als sie aussieht.","Sabe mejor de lo que parece.","É mais gostosa do que parece.","尝起来比外表可口。","嘗起來比外表可口。","보이는 것보단 맛있습니다.","Smakuje lepiej niż wygląda.","""CookingData/MEAL_MEDIUM_MIXED/Description"", """""
 "CookingData/MEAL_GREAT_MIXED/Name","Title used for displaying a
   meal type, mostly displayed 
-  in the cooking fire/ kitchen UI","15","Magnificent Mixed Meal","おいしい盛り合わせ料理","Вкусная смесь","Mélange délicieux","Tolle Mischmahlzeit","Plato bien combinado","Refeição Mista Ótima","上等什锦餐","上等什錦餐","훌륭하게 섞은 음식","Wspaniały Mieszany Posiłek","""CookingData/MEAL_GREAT_MIXED/Name"", """""
+  in the cooking fire/ kitchen UI","15","Magnificent Mixed Meal","おいしい盛り合わせ料理","Вкусная смесь","Mélange délicieux","Tolle Mischmahlzeit","Plato bien combinado","Refeição Mista Ótima","上等什锦餐","上等什錦餐","훌륭하게 섞은 음식","Wspaniały mieszany posiłek","""CookingData/MEAL_GREAT_MIXED/Name"", """""
 "CookingData/MEAL_GREAT_MIXED/Description","Title used for displaying a
   meal type, mostly displayed 
-  in the cooking fire/ kitchen UI","100","A fine meal made from the very best mixed ingredients.","最上級の材料を上手く混ぜ合わせて作られたおいしい料理。","Питательное блюдо из лучших ингредиентов, которые нашлись в закромах.","Un plat préparé avec soin avec des ingrédients de qualité.","Eine gute Mahlzeit aus den besten gemischten Zutaten.","Un buen plato hecho con la perfecta combinación de ingredientes.","Uma boa refeição feita com a mistura dos melhores ingredientes.","使用多种顶级食材制作成的可口餐点","使用多種頂級食材製作成的可口餐點","최대한 잘 섞은 재료들로 만든 고급 음식입니다.","Wyśmienity posiłek przygotowany z najlepszych mieszanych składników.","""CookingData/MEAL_GREAT_MIXED/Description"", """""
+  in the cooking fire/ kitchen UI","100","A fine meal made from the very best mixed ingredients.","最上級の材料を上手く混ぜ合わせて作られたおいしい料理。","Питательное блюдо из лучших ингредиентов, которые нашлись в закромах.","Un plat préparé avec soin avec des ingrédients de qualité.","Eine gute Mahlzeit aus den besten gemischten Zutaten.","Un buen plato hecho con la perfecta combinación de ingredientes.","Uma boa refeição feita com a mistura dos melhores ingredientes.","使用多种顶级食材制作成的可口餐点","使用多種頂級食材製作成的可口餐點","최대한 잘 섞은 재료들로 만든 고급 음식입니다.","Znakomity posiłek przygotowany z najlepszych mieszanych składników.","""CookingData/MEAL_GREAT_MIXED/Description"", """""
 "CookingData/MEAL_MEDIUM_VEG/Name","Title used for displaying a
   meal type, mostly displayed 
-  in the cooking fire/ kitchen UI","15","Cheery Cauliflower Chowder","野菜料理（中）","Съедобный овощной салат","Plat de légumes ordinaire","Durchschnittliche vegetarische Mahlzeit","Plato veggie normal","Refeição de Vegetais Média","中份蔬食餐","中份蔬食餐","맛있는 콜리플라워 차우더","Wesoła Zupa Krem z Kalafiora","""CookingData/MEAL_MEDIUM_VEG/Name"", """""
+  in the cooking fire/ kitchen UI","15","Cheery Cauliflower Chowder","野菜料理（中）","Съедобный овощной салат","Plat de légumes ordinaire","Durchschnittliche vegetarische Mahlzeit","Plato veggie normal","Refeição de Vegetais Média","中份蔬食餐","中份蔬食餐","맛있는 콜리플라워 차우더","Radosny kalafiorowy chowder","""CookingData/MEAL_MEDIUM_VEG/Name"", """""
 "CookingData/MEAL_MEDIUM_VEG/Description","Title used for displaying a
   meal type, mostly displayed 
-  in the cooking fire/ kitchen UI","100","Tasty veggie dish.","おいしい野菜の料理。","Достаточно вкусный салат из нарезанных овощей.","Un bon petit plat de légumes.","Schmackhaftes Gericht für Vegetarier.","Un plato de verduras decente.","Uma refeição vegetariana gostosa.","美味的蔬食料理","美味的蔬食料理","맛있는 야채 음식입니다.","Smaczne Warzywne Danie.","""CookingData/MEAL_MEDIUM_VEG/Description"", """""
+  in the cooking fire/ kitchen UI","100","Tasty veggie dish.","おいしい野菜の料理。","Достаточно вкусный салат из нарезанных овощей.","Un bon petit plat de légumes.","Schmackhaftes Gericht für Vegetarier.","Un plato de verduras decente.","Uma refeição vegetariana gostosa.","美味的蔬食料理","美味的蔬食料理","맛있는 야채 음식입니다.","Smaczne warzywne danie.","""CookingData/MEAL_MEDIUM_VEG/Description"", """""
 "CookingData/MEAL_BAD_MEAT/Name","Title used for displaying a
   meal type, mostly displayed 
-  in the cooking fire/ kitchen UI","15","Stringy Meat Gruel","マズい肉料理","Тухлое мясное рагу","Plat de viande fade","Miese Fleischmahlzeit","Plato de carne rancio","Refeição de Carne Ruim","难吃肉肉餐","難吃肉肉餐","힘줄 많은 고기 귀리죽","Kleik z Żylastego Mięsa","""CookingData/MEAL_BAD_MEAT/Name"", """""
+  in the cooking fire/ kitchen UI","15","Stringy Meat Gruel","マズい肉料理","Тухлое мясное рагу","Plat de viande fade","Miese Fleischmahlzeit","Plato de carne rancio","Refeição de Carne Ruim","难吃肉肉餐","難吃肉肉餐","힘줄 많은 고기 귀리죽","Kleik z łykowatego mięsa","""CookingData/MEAL_BAD_MEAT/Name"", """""
 "CookingData/MEAL_BAD_MEAT/Description","Title used for displaying a
   meal type, mostly displayed 
-  in the cooking fire/ kitchen UI","100","Made from scraps.","残飯から作られた料理。","Блюдо из того, что подвернулось под руку.","Un plat à base de restes de viande...","Aus Resten zubereitet.","Hecho con las sobras.","Feita de restos.","以剩肉制成","以剩肉製成","찌꺼기로 만들었습니다.","Wykonane z resztek.","""CookingData/MEAL_BAD_MEAT/Description"", """""
+  in the cooking fire/ kitchen UI","100","Made from scraps.","残飯から作られた料理。","Блюдо из того, что подвернулось под руку.","Un plat à base de restes de viande...","Aus Resten zubereitet.","Hecho con las sobras.","Feita de restos.","以剩肉制成","以剩肉製成","찌꺼기로 만들었습니다.","Wykonany z ochłapów.","""CookingData/MEAL_BAD_MEAT/Description"", """""
 "CookingData/MEAL_GREAT_MEAT/Name","Title used for displaying a
   meal type, mostly displayed 
-  in the cooking fire/ kitchen UI","15","Mighty Meat Feast","豪快な肉のごちそう","Аппетитное мясное рагу","Plat de viande supérieur","Mächtiges Fleischfestmahl","Potente festín de carne","Banquete de Carne Poderoso","美味肉肉盛宴","美味肉肉盛宴","멋진 고기 음식","Wspaniała Mięsna Uczta","""CookingData/MEAL_GREAT_MEAT/Name"", """""
+  in the cooking fire/ kitchen UI","15","Mighty Meat Feast","豪快な肉のごちそう","Аппетитное мясное рагу","Plat de viande supérieur","Mächtiges Fleischfestmahl","Potente festín de carne","Banquete de Carne Poderoso","美味肉肉盛宴","美味肉肉盛宴","멋진 고기 음식","Potężna mięsna uczta","""CookingData/MEAL_GREAT_MEAT/Name"", """""
 "CookingData/MEAL_GREAT_MEAT/Description","Title used for displaying a
   meal type, mostly displayed 
   in the cooking fire/ kitchen UI","100","Great hunks of juicy meat.","肉汁たっぷりの大きな肉の塊。","Блюдо из свежего и сочного мяса.","Des morceaux généreux de viande juteuse.","Große, saftige Fleischstücke.","Carnaca rica y jugosa.","Pedaços generosos de carne suculenta.","美味多汁的大块肉餐","美味多汁的大塊肉餐","육즙 많은 커다란 고기 덩어리가 들어있습니다.","Wielkie kawałki soczystego mięsa.","""CookingData/MEAL_GREAT_MEAT/Description"", """""
